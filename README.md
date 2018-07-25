@@ -3,7 +3,7 @@ Compilation of neural network models using TensorFlow and Keras
 
 #### Table of Contents
 * Classification
-  * [Fashion MNIST](#fashio-mnist)
+  * [Fashion MNIST](#fashion-mnist)
 
 
 
