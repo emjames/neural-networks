@@ -1,5 +1,12 @@
 # neural-networks
 Compilation of neural network models using TensorFlow and Keras
+
+#### Table of Contents
+* Classification
+  * [Fashion MNIST](#fashio-mnist)
+
+
+
 ### [Fashion MNIST](/classification/Fashion_MNIST.ipynb)
 Basic classification with TensorFlow and Keras  
 Uses [```keras.datasets.fashion_mnist```](https://keras.io/datasets/#fashion-mnist-database-of-fashion-articles)
